@@ -15,4 +15,3 @@ def bark
 end
 end
 
-fido.bark
